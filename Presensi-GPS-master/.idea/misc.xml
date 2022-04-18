@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_add_user.xml" value="0.14666666666666667" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_admin_manager_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_all_history.xml" value="0.16168478260869565" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_edit_photo.xml" value="0.14666666666666667" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_edit_profile.xml" value="0.10144927536231885" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_maps.xml" value="0.10144927536231885" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_presence.xml" value="0.16168478260869565" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_report.xml" value="0.16168478260869565" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_send_report.xml" value="0.16168478260869565" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/activity_user.xml" value="0.16168478260869565" />
+        <entry key="..\:/KAMPUS/APK Konsentrasi/Presensi-GPS-master/app/src/main/res/layout/fragment_user_view_pager.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
